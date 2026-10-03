@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Şuranur 👋
 
-<!--
-**suranurcemrek/suranurcemrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Engineering student at Piri Reis University, based in Istanbul. I like making things with code and music.
 
-Here are some ideas to get you started:
+## What I'm into
+- 👁️ Computer vision
+- 🤖 Robotics
+- 🌐 Frontend development with React
+- 🎸 Guitar and songwriting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Right now
+- Working on my senior project and thesis
+- Learning music production with FL Studio
+
+## Get in touch
+- 📫 LinkedIn: (link buraya)
